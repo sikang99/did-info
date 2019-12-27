@@ -1,9 +1,10 @@
 # did-info
 Distributed ID (DID) Information
-
+DPKI
 
 
 ### History
+- 2019/06/03 [Future Developments - Decentralized Identity](https://dev.to/radixdlt/future-developments-decentralized-identity-2emo)
 
 
 ### History (Korean)
@@ -11,6 +12,7 @@ Distributed ID (DID) Information
 
 
 ### Information
+- [Decentralized Identifiers (DIDs)](https://w3c.github.io/did-core/) v1.0, Core Data Model and Syntaxes, W3C Working Draft 10 December 2019
 
 
 ### Open Source
