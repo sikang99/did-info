@@ -1,7 +1,11 @@
 ## did-info/uid
 Unique ID (DID) Information
+- UUID
+- ULID: Universally Unique Lexicographically Sortable Identifier
+
 
 ### History
+- 2019/02/14 [Going deep on UUIDs and ULIDs](https://www.honeybadger.io/blog/uuids-and-ulids/)
 - 2018/06/08 [Generating unique IDs in a distributed environment at high scale](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
 - 2017/07/21 Unique IDs in Golang
     - [Part1](http://antoniomo.com/blog/2017/05/21/unique-ids-in-golang-part-1/) Introduces the topic (this post)
@@ -31,4 +35,6 @@ Unique ID (DID) Information
 - [oklog/ulid](https://github.com/oklog/ulid)
 - [google/uuid](https://github.com/google/uuid)
 - [satori/go.uuid](https://github.com/satori/go.uuid)
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+
 
