@@ -1,7 +1,8 @@
 ## id-info
 
 
-- [DID](./did)
-- [UID](./uid)
+### Contents
+- [Distributed ID: DID](./did)
+- [Unique ID: UID](./uid)
 
 
