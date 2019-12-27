@@ -1,4 +1,4 @@
-# did-info
+## did-info
 Distributed ID (DID) Information
 DPKI
 
@@ -20,5 +20,4 @@ DPKI
 
 
 ### Open Source
-
 
