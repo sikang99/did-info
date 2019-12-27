@@ -3,6 +3,10 @@ Unique ID (DID) Information
 
 ### History
 - 2018/06/08 [Generating unique IDs in a distributed environment at high scale](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
+- 2017/07/21 Unique IDs in Golang
+    - [Part1](http://antoniomo.com/blog/2017/05/21/unique-ids-in-golang-part-1/) Introduces the topic (this post)
+    - [Part2](http://antoniomo.com/blog/2017/05/21/unique-ids-in-golang-part-2/) Talks about UUID
+    - [Part3](http://antoniomo.com/blog/2017/05/21/unique-ids-in-golang-part-3/) Talks about ULID
 - 2017/06/08 [**A brief history of the UUID**](https://segment.com/blog/a-brief-history-of-the-uuid/)
 - 2016/05/05 [A Distributed System Unique ID Generator Written By Golang](https://medium.com/@zhengji91/a-distributed-system-unique-id-generator-written-by-golang-60ecfdbe6118)
 
