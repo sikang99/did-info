@@ -21,5 +21,10 @@ Unique ID (DID) Information
 - [zheng-ji/goSnowFlake](https://github.com/zheng-ji/goSnowFlake) - Go version of SnowFlake
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-
+- [chilts/sid](https://github.com/chilts/sid)
+- [kjk/betterguid](https://github.com/kjk/betterguid)
+- [lithammer/shortuuid](https://github.com/lithammer/shortuuid)
+- [oklog/ulid](https://github.com/oklog/ulid)
+- [google/uuid](https://github.com/google/uuid)
+- [satori/go.uuid](https://github.com/satori/go.uuid)
 
