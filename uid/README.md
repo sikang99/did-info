@@ -19,4 +19,6 @@ Unique ID (DID) Information
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [zheng-ji/goSnowFlake](https://github.com/zheng-ji/goSnowFlake) - Go version of SnowFlake
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+
 
