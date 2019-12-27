@@ -25,6 +25,7 @@ Unique ID (DID) Information
 - [Go Cookbook](https://blog.kowalczyk.info/book/go-cookbook.html) / [**Generating good unique ids in Go**](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [Cuid](http://usecuid.org/) - Collision-resistant ids optimized for horizontal scaling and performance
+- [JSON Web Token(JWT)](https://jwt.io/) - RFC7519 
 
 
 ### Open Source
