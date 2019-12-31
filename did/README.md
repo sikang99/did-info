@@ -1,6 +1,6 @@
 ## did-info
-Distributed ID (DID) Information
-DPKI
+> Decentralized ID (DID) Information
+> Distributed PKI (DPKI)
 
 
 ### History
@@ -27,3 +27,14 @@ DPKI
 
 ### Open Source
 
+
+### Slides
+- 2019 [블록체인기반 자기주권형 모바일 전자증명 서비스](https://www.kisa.or.kr/uploadfile/201909/201909031758548278.pdf)
+- 2019 [전자서명 기반의 디지털 신분증 구현 방안과 활용 사례](https://www.kisa.or.kr/uploadfile/201909/201909031758548282.pdf)
+- 2018 [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf)
+
+
+### Papers
+- 2019 [디지털 신뢰 사회 실현을 위한 디지털 아이덴티티 동향](https://ettrends.etri.re.kr/ettrends/177/0905177012/34-3_114-124.pdf)
+- 2019 [블록체인을 활용한 우정사업 자기주권 신원사업 추진 필요성](https://www.kisdi.re.kr/kisdi/common/premium?file=1%7C14512)
+- 2018 [Decentralized Identity - Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)
