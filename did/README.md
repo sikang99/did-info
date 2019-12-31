@@ -40,7 +40,10 @@
 
 
 ### Papers
-- 2019 [블록체인의 보안 및 상호운용성 연구 동향](file:///Users/stoney/Downloads/20190326_S&TRJ-V32-N1_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+- 2019 [IDHub Whitepaper v0.6 Blockchain Based Digital Identity](http://www.idhub.network/IDHub_whitepaper_v0.6.0_en.pdf)
+- 2019 [DNS-IdM: A Blockchain Identity Management System to Secure Personal Data Sharing in a Network](https://www.mdpi.com/2076-3417/9/15/2953/pdf)
+- 2019 [SelfIs: Self-Sovereign Biometric IDs](http://openaccess.thecvf.com/content_CVPRW_2019/papers/BCMCVAI/Bathen_SelfIs_Self-Sovereign_Biometric_IDs_CVPRW_2019_paper.pdf)
+- 2019 [블록체인의 보안 및 상호운용성 연구 동향](http://www.it-workshop.or.kr/board/include/download.php?no=84&db=dataroom2&fileno=1)
 - 2019 [전자금융과 금융보안](http://www.fsec.or.kr/common/proc/fsec/bbs/146/fileDownLoad/1860.do)
 - 2019 [디지털 신뢰 사회 실현을 위한 디지털 아이덴티티 동향](https://ettrends.etri.re.kr/ettrends/177/0905177012/34-3_114-124.pdf)
 - 2019 [블록체인을 활용한 우정사업 자기주권 신원사업 추진 필요성](https://www.kisdi.re.kr/kisdi/common/premium?file=1%7C14512)
