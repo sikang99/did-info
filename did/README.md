@@ -31,6 +31,7 @@
 
 
 ### Slides
+- 2019 [Decentralized Identity Introduction](https://www.ibm.com/downloads/cas/OPEQYEL7)
 - 2019 [Decentralized ID & Verifiable Claims](https://www.owasp.org/images/8/89/OWASP-Austin-Mtg-2018Jan-CryptoParty-Dave-Sanford.pdf)
 - 2019 [**Decentralized Identity for a Decentralized World**](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
 - 2019 [블록체인기반 자기주권형 모바일 전자증명 서비스](https://www.kisa.or.kr/uploadfile/201909/201909031758548278.pdf)
@@ -45,4 +46,7 @@
 - 2018 [Decentralized Identity - Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)
 - 2018 [Sovrin™: A Protocol and Token for SelfSovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
 - 2018 [A Survey on Essential Components of a Self-Sovereign Identity](https://arxiv.org/pdf/1807.06346.pdf)
+- 2018 [Decentralized Identity Management System for Self-Soverign Identity](https://projekter.aau.dk/projekter/files/281068659/Master_Thesis_ICTE4SER4.2.pdf)
+- 2018 [Self-sovereign Identity](https://jolocom.io/wp-content/uploads/2018/10/Self-sovereign-Identity-_-Blockchain-Bundesverband-2018.pdf)
+
 
